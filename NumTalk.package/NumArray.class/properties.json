@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NumTalk",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cells",
+		"numberOfRows",
+		"numberOfColumns"
+	],
+	"name" : "NumArray",
+	"type" : "normal"
+}
