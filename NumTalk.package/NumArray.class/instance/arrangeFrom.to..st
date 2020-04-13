@@ -3,7 +3,7 @@ arrangeFrom:from to:to
 	"arrange an array every cell increments by one "	
 	
 	|arraySize arrangeCells |
-	arraySize:= (to-from) abs.
+	arraySize:= (to-from+1) abs.
 	numberOfColumns := arraySize .
 	numberOfRows := 1.
 	
