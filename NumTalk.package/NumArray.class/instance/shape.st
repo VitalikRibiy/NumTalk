@@ -4,4 +4,4 @@ shape
 	|shapeSet|
 	shapeSet := Set new.
 	shapeSet  add:numberOfRows ;add: numberOfColumns.
-	^shapeSet asArray 
+	^shapeSet 
