@@ -13,4 +13,5 @@ Rows
 			].
 			rows at:rowNumber put:row.
 		].
+	array := rows.
 	^rows.
