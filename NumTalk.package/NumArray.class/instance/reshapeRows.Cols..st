@@ -1,10 +1,6 @@
 reshaping
-reshapeRows:rows Cols: cols
+reshapeRows:rowsNumber Cols: colsNumber
 	"reshaping ana array"
-			
-	|s|
-	numberOfColumns := cols.
-	numberOfRows := rows.
-	s:= Set new.
-	s add:numberOfRows ;add: numberOfColumns.
-	^s 
+	numberOfColumns := colsNumber.
+	numberOfRows := rowsNumber.
+	array := self Rows.
