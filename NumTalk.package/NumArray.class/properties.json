@@ -8,8 +8,7 @@
 	"instvars" : [
 		"cells",
 		"numberOfRows",
-		"numberOfColumns",
-		"array"
+		"numberOfColumns"
 	],
 	"name" : "NumArray",
 	"type" : "normal"
