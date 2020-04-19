@@ -6,6 +6,7 @@ concat:AddArray
 	newsize := self size +  AddArray size. 
 	newcells:= Array new:newsize.
 	numberOfColumns := newsize.
+	numberOfRows := 1.
 	cells:= cells asArray,AddArray cells asArray.
 	  
 	 
