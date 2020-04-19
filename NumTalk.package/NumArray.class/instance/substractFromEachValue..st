@@ -1,4 +1,4 @@
-arithmetic
+Basic Linear Algebra
 substractFromEachValue:value
 	"substract value from each cell"	
 			
