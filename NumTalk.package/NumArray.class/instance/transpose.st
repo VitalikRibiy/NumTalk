@@ -6,4 +6,3 @@ transpose
 	transposedRowsNumber := self columnsNumber.
 	numberOfColumns := self rowsNumber.
 	numberOfRows := transposedRowsNumber.
-	array := self Rows.

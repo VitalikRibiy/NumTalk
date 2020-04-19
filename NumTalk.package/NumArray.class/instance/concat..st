@@ -7,6 +7,5 @@ concat:AddArray
 	newcells:= Array new:newsize.
 	numberOfColumns := newsize.
 	cells:= cells asArray,AddArray cells asArray.
-	array := self Rows.
 	  
 	 
