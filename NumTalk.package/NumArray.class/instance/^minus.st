@@ -1,6 +1,6 @@
 Basic Linear Algebra
 - secondArray
-	"returns new instance of NumArray with values equals to substract of elements"
+	"Retun new instance with cells decreased by values of second array"
 			
 	| result |
 	(secondArray columnsNumber = self columnsNumber) & (secondArray rowsNumber = self rowsNumber )
