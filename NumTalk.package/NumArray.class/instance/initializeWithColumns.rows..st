@@ -5,3 +5,4 @@ initializeWithColumns: col rows:row
 	numberOfColumns := col.
 	numberOfRows := row.
 	cells := Array new: row*col.
+	
