@@ -1,13 +1,28 @@
 {
 	"instance" : {
 		"TestHorizConcat" : "NadiiaPadalka 4/23/2020 18:55",
-		"testHorizConcat" : "NadiiaPadalka 4/23/2020 18:56",
-		"messageSelectorAndArgumentNames" : "NadiiaPadalka 4/23/2020 18:54",
-		"testReshapeRowsCols" : "NadiiaPadalka 4/23/2020 17:46",
+		"testFillInOrderFrom" : "VitaliiRibii 4/29/2020 02:25",
 		"testSliceFromToStep" : "NadiiaPadalka 4/25/2020 20:52",
+		"testTranspose" : "NadiiaPadalka 4/23/2020 17:58",
+		"testInitializeWithColumnsRows" : "VitaliiRibii 4/29/2020 01:14",
+		"testReshapeRowsCols" : "NadiiaPadalka 4/23/2020 17:46",
+		"testHorizConcat" : "NadiiaPadalka 4/23/2020 18:56",
+		"testCells" : "VitaliiRibii 4/29/2020 01:29",
 		"testIndexAt" : "NadiiaPadalka 4/23/2020 19:23",
+		"testFillWithZero" : "VitaliiRibii 4/29/2020 02:26",
+		"testColumns" : "VitaliiRibii 4/29/2020 02:17",
+		"size" : "VitaliiRibii 4/29/2020 01:17",
+		"testIndexAtPut" : "VitaliiRibii 4/29/2020 01:53",
+		"testElementAtRowColumn" : "VitaliiRibii 4/29/2020 02:05",
+		"testArrangeFromto" : "VitaliiRibii 4/29/2020 01:15",
+		"testRowsNumber" : "VitaliiRibii 4/29/2020 01:42",
+		"testsize" : "VitaliiRibii 4/29/2020 01:18",
+		"messageSelectorAndArgumentNames" : "NadiiaPadalka 4/23/2020 18:54",
+		"testFillRandIntFromTo" : "VitaliiRibii 4/29/2020 02:42",
 		"testFillWithOnes" : "NadiiaPadalka 4/23/2020 19:11",
-		"testTranspose" : "NadiiaPadalka 4/23/2020 17:58"
+		"testRows" : "VitaliiRibii 4/29/2020 02:10",
+		"testColumnsNumber" : "VitaliiRibii 4/29/2020 01:42",
+		"testIndexAtIncrementBy" : "VitaliiRibii 4/29/2020 01:55"
 	},
 	"class" : { }
 }

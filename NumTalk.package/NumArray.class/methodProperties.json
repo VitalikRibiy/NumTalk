@@ -1,10 +1,9 @@
 {
 	"instance" : {
-
 		"fillWithOnes" : "VitaliiRibii 3/28/2020 18:00:16",
 		"-" : "VitaliiRibii 4/20/2020 01:12",
 		"reshapeRows:Cols:" : "VitaliiRibii 3/28/2020 18:00:16",
-		"Columns" : "VitaliiRibii 3/28/2020 15:43",
+		"Columns" : "VitaliiRibii 4/29/2020 02:18",
 		"fillInOrderFrom:" : "VitaliiRibii 3/28/2020 15:38",
 		"fillRandIntFrom:to:" : "VitaliiRibii 3/28/2020 18:00:16",
 		"+" : "VitaliiRibii 4/20/2020 01:12",
@@ -16,21 +15,24 @@
 		"concat:" : "VitaliiRibii 4/20/2020 00:33",
 		"size" : "VitaliiRibii 3/28/2020 14:48",
 		"rowsNumber" : "VitaliiRibii 3/28/2020 14:53",
-		"transpose" : "VitaliiRibii 4/19/2020 23:12:59",
+		"SliceFrom:To:Step:" : "VitaliiRibii 4/20/2020 01:27:47",
 		"indexAt:incrementBy:" : "VitaliiRibii 4/19/2020 23:49",
+		"transpose" : "VitaliiRibii 4/19/2020 23:12:59",
+		"horizConcat:" : "VitaliiRibii 4/20/2020 01:27:47",
 		"divideBy:" : "VitaliiRibii 4/20/2020 01:15",
+		"*" : "VitaliiRibii 4/20/2020 01:10",
 		"elementAtRow:Column:" : "VitaliiRibii 4/14/2020 00:11",
 		"indexAt:" : "VitaliiRibii 4/19/2020 23:12:59",
-		"*" : "VitaliiRibii 4/20/2020 01:10",
 		"addArray:" : "VitaliiRibii 4/19/2020 23:53",
-		"arrangeFrom:to:" : "VitaliiRibii 4/14/2020 00:04",
 		"addToEachValue:" : "VitaliiRibii 4/14/2020 00:06",
-		"/" : "VitaliiRibii 4/20/2020 01:10",
 		"cells" : "VitaliiRibii 3/28/2020 15:41",
+		"/" : "VitaliiRibii 4/20/2020 01:10",
+		"arrangeFrom:to:" : "VitaliiRibii 4/14/2020 00:04",
 		"shape" : "VitaliiRibii 3/28/2020 18:00:16",
 		"substractArray:" : "VitaliiRibii 4/19/2020 23:53",
 		"Rows" : "VitaliiRibii 3/28/2020 15:43",
-		"substractByValue:" : "VitaliiRibii 4/20/2020 01:16"
+		"substractByValue:" : "VitaliiRibii 4/20/2020 01:16",
+		"verticalConcat:" : "VitaliiRibii 4/20/2020 01:27:47"
 	},
 	"class" : {
 		"identityMatrixColumns:Rows:" : "VitaliiRibii 4/19/2020 20:42",
