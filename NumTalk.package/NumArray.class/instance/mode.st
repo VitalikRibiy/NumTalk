@@ -1,5 +1,6 @@
 Basic-Statistics
 mode
+"Return mode the number which occurs most frequently in the set "
 	|result occurences countdict|
 	"result := Array new: self size.
 	1 to: cells  size do: 

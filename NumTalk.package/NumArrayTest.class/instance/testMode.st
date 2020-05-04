@@ -1,6 +1,6 @@
 tests-Basic-Statistics
 testMode
-	"tests for mean method "
+	"tests for mode method "
 			
 	|numarray anotherarray newArray|
 	numarray := NumArray new arrangeFrom: 2 to:  6.
