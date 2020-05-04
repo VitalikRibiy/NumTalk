@@ -1,5 +1,6 @@
 {
 	"instance" : {
+		"testReshapeRowsCols" : "NadiiaPadalka 4/23/2020 17:46",
 		"TestHorizConcat" : "NadiiaPadalka 4/23/2020 18:55",
 		"testFillInOrderFrom" : "VitaliiRibii 4/29/2020 02:25",
 		"testSliceFromToStep" : "NadiiaPadalka 4/25/2020 20:52",
@@ -18,8 +19,21 @@
 		"testRowsNumber" : "VitaliiRibii 4/29/2020 01:42",
 		"testsize" : "VitaliiRibii 4/29/2020 01:18",
 		"messageSelectorAndArgumentNames" : "NadiiaPadalka 4/23/2020 18:54",
+		"testMedian" : "NadiiaPadalka 5/3/2020 16:50",
+		"testIndexAt" : "NadiiaPadalka 4/23/2020 19:23",
+		"testRange" : "NadiiaPadalka 5/3/2020 16:52",
+		"testMean" : "NadiiaPadalka 5/3/2020 16:40",
+		"testSliceFromToStep" : "NadiiaPadalka 4/25/2020 20:52",
+		"testStd" : "NadiiaPadalka 5/3/2020 16:55",
+		"testAmin" : "NadiiaPadalka 5/4/2020 20:22",
+		"testAmax" : "NadiiaPadalka 5/4/2020 20:22",
 		"testFillRandIntFromTo" : "VitaliiRibii 4/29/2020 02:42",
 		"testFillWithOnes" : "NadiiaPadalka 4/23/2020 19:11",
+		"testTranspose" : "NadiiaPadalka 4/23/2020 17:58",
+		"testAverage" : "NadiiaPadalka 5/3/2020 16:34",
+		"testHorizConcat" : "NadiiaPadalka 4/23/2020 18:56",
+		"testMode" : "NadiiaPadalka 5/4/2020 20:21",
+		"testVarience" : "NadiiaPadalka 5/4/2020 20:21"
 		"testRows" : "VitaliiRibii 4/29/2020 02:10",
 		"testColumnsNumber" : "VitaliiRibii 4/29/2020 01:42",
 		"testIndexAtIncrementBy" : "VitaliiRibii 4/29/2020 01:55"
