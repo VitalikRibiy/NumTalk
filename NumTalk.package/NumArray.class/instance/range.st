@@ -1,4 +1,4 @@
-Basic-Statistics
-range
-	"return the range of NumArray"
-^cells max -cells min
+Basic Statistics
+range	
+	"return the range of NumArray"	
+^cells max -cells min 

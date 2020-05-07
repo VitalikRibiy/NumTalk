@@ -1,5 +1,5 @@
-Basic-Statistics
-amin
-	"returns min value in Num array "
-			
-	^ cells min
+Basic Statistics
+amin	
+	"returns min value in Num array "	
+
+	^ cells min 
