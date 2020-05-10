@@ -1,4 +1,4 @@
-Basic Statistics
+basic statistics
 std	
 	"returns standart deviation of NumArray"	
 	"std = sqrt(mean(abs(x - x.mean())**2))"		

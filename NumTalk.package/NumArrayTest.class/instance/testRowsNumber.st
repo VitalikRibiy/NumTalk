@@ -3,5 +3,5 @@ testRowsNumber
 	"Test get number of rows"
 			
 	| array |
-	array := NumArray initializeWithColumns: 10 Rows:2.
+	array := NumArray initializeWithRows: 2 Columns: 10.
 	self assert: (array rowsNumber) equals: 2. 

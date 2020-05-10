@@ -3,7 +3,7 @@ testAddToEachValue
 	"Test addToEachValueArray method"
 			
 	| array |
-	array := NumArray initializeWithColumns: 3 Rows: 2.
+	array := NumArray initializeWithRows: 2 Columns: 3.
 	array fillInOrderFrom: 1.
 	array addToEachValue: 1.
 	self assert: (array cells) equals: #(2 3 4 5 6 7).

@@ -1,4 +1,4 @@
-Basic Linear Algebra
+basic linear algebra
 divideBy: value
 	"Divide each value by value"
 			
