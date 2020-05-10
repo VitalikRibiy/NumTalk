@@ -4,7 +4,7 @@ identityMatrixColumns:colsNumber Rows:rowsNumber
 			
 	| array |
 	array := NumArray new.
-	array initializeWithColumns:colsNumber rows:rowsNumber.
+	array initializeWithRows:rowsNumber columns:colsNumber.
 	array fillWithZero.
 	1 to: array size by: array columnsNumber + 1 do: [ :i| array cells at:i put:1.].
 	^array.

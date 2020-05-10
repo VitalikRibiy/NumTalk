@@ -1,5 +1,5 @@
-Basic Linear Algebra
+basic linear algebra
 divideBy: value
 	"Divide each value by value"
 			
-	1 to: self size do: [ :i | cells at: i put: ((self indexAt:i) * value ) ].
+	1 to: self size do: [ :i | cells at: i put: ((self indexAt:i) / value ) ].

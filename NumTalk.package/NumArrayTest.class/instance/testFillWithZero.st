@@ -4,6 +4,6 @@ testFillWithZero
 		
 			
 	| numArray |
-	numArray := NumArray new initializeWithColumns: 2 rows:2.
+	numArray := NumArray initializeWithRows: 2 Columns: 2.
 	numArray fillWithZero.
 	self assert: (numArray cells)equals: #(0 0 0 0).

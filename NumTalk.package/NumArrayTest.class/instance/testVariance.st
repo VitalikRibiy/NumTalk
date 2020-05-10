@@ -1,6 +1,6 @@
 test-Statistics
-testVarience	
-	"test for varience method"	
+testVariance	
+	"test for variance method"	
 	|numarray anotherarray |	
 	numarray := NumArray new arrangeFrom: 1 to: 4.	
 	self assert: (numarray variance    ) equals: (5/4).	

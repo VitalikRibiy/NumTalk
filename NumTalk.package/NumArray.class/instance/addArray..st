@@ -1,4 +1,4 @@
-Basic Linear Algebra
+basic linear algebra
 addArray:secondArray
 	"modify array adding secondArray values"
 			
