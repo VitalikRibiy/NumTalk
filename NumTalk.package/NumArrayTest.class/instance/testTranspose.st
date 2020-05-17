@@ -1,4 +1,4 @@
-tests-transposing
+test-linearAlgebra
 testTranspose
 	"test for shape method"
 			
