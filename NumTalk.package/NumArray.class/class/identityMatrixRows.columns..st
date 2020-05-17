@@ -1,5 +1,5 @@
 initialization
-identityMatrixColumns:colsNumber Rows:rowsNumber
+identityMatrixRows:rowsNumber columns:colsNumber
 	"returns instance of identity matrix"
 			
 	| array |
