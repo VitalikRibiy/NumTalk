@@ -1,5 +1,5 @@
 accessing
-Columns
+columns
 	"get array of columns arrays"
 
 	| columns column |

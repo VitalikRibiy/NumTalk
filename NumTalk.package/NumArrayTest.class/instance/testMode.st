@@ -9,6 +9,6 @@ testMode
 	newArray := NumArray new arrangeFrom: 1 to: 3.	
 	numarray concat: newArray .	
 	self assert: (numarray mode  ) equals: 2.	
-	newArray fillWithOnes .	
+	newArray fillWith:1.	
 	numarray concat: newArray .	
 	self assert: (numarray mode) equals:1. 	

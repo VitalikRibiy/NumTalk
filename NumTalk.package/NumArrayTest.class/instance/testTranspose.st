@@ -1,9 +1,9 @@
-tests-transposing
+test-linearAlgebra
 testTranspose
 	"test for shape method"
 			
 	| testNumArray|
-	testNumArray := NumArray new initializeWithColumns: 5 rows: 6.
+	testNumArray := NumArray initializeWithRows: 6 Columns: 5.
 	self assert: (testNumArray columnsNumber ) equals: 5.
 	testNumArray transpose .
 	self assert:(testNumArray rowsNumber ) equals: 5.

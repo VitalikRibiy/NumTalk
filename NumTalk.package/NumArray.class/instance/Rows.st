@@ -1,5 +1,5 @@
 accessing
-Rows
+rows
 	"get array of rows arrays"
 			
 	| rows row |

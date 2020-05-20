@@ -1,4 +1,4 @@
-Basic Statistics
+basic statistics
 median	
 	"return median  value in NumTalk Array"	
 	"Median - the middle number in a sorted, ascending or descending, list of numbers and can be more        descriptive of that data set than the average"	
