@@ -3,6 +3,7 @@ identityMatrixRows:rowsNumber columns:colsNumber
 	"returns instance of identity matrix"
 			
 	| array |
+	rowsNumber = colsNumber ifFalse: [ self error: 'Identity matrix must be nxn' ].
 	array := NumArray new.
 	array initializeWithRows:rowsNumber columns:colsNumber.
 	array fillWithZero.

@@ -5,6 +5,6 @@ tan
 	| array |
 	array := NumArray
 		initializeWithRows: self rowsNumber
-		Columns: self columnsNumber.
+		columns: self columnsNumber.
 	1 to: self size do: [ :i | array indexAt: i put: (self indexAt: i) tan ].
 	^ array

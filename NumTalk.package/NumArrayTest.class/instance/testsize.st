@@ -1,8 +1,7 @@
 overrides
-testsize
+testSize
 	"Test size override"
 			
 	| array |
-	array := NumArray new.
-	array initializeWithRows: 2 columns: 10.
+	array := NumArray initializeWithRows: 10 columns: 2.
 	self assert: array size equals: 20.
