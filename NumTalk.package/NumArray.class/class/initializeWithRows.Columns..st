@@ -1,5 +1,5 @@
 initialization
-initializeWithRows:rowsNumber Columns:columnsNumber
+initializeWithRows:rowsNumber columns:columnsNumber
 	"returns new instance with shape columns,rows"
 			
 	| result |

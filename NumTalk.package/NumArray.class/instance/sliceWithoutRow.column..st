@@ -6,7 +6,7 @@ sliceWithoutRow: row column: col
 	matrix := self.
 	res := NumArray
 		initializeWithRows: matrix rowsNumber - 1
-		Columns: matrix columnsNumber - 1.
+		columns: matrix columnsNumber - 1.
 	di := 0.
 	1 to: matrix rowsNumber - 1 do: [ :i | 
 		i = row

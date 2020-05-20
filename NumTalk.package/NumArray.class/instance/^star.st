@@ -10,7 +10,7 @@ basic linear algebra
 		ifFalse: [ ^ self error: 'arrays must be m x n , n x m' ].
 	result := NumArray
 		initializeWithRows: thisArray rowsNumber
-		Columns: array columnsNumber.
+		columns: array columnsNumber.
 	1 to: result rowsNumber do: [ :i | 
 		1 to: result columnsNumber do: [ :j | 
 			1 to: array rowsNumber do: [ :k | 

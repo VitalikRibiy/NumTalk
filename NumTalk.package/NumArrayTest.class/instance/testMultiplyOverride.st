@@ -3,9 +3,9 @@ testMultiplyOverride
 	"Test * override method"
 			
 	| array1 array2 result|
-	array1 := NumArray initializeWithRows: 3 Columns: 3.
+	array1 := NumArray initializeWithRows: 3 columns: 3.
 	array1 fillInOrderFrom: 1.
-	array2 := NumArray initializeWithRows: 3 Columns: 3.
+	array2 := NumArray initializeWithRows: 3 columns: 3.
 	array2 fillInOrderFrom: 10.
 	result := (array1 * array2).
 	self assert: (result rowsNumber) equals:3.

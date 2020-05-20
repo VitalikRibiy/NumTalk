@@ -5,6 +5,6 @@ basic linear algebra
 	| result |
 	result := NumArray
 		initializeWithRows: self rowsNumber
-		Columns: self columnsNumber.
+		columns: self columnsNumber.
 	1 to: self size do: [ :i | result indexAt: i put: (self indexAt: i) / value ].
 	^ result
