@@ -1,4 +1,4 @@
-basic statistics
+Basic Statistics
 variance	
 
 	"returns variance of NumArray"	

@@ -1,4 +1,4 @@
-basic linear algebra
+Basic Linear Algebra
 addToEachValue:value
 	"add value to each cell"	
 			

@@ -1,4 +1,4 @@
-basic linear algebra
+Basic Linear Algebra
 substractByValue:value
 	"Substract each cell by value"	
 			

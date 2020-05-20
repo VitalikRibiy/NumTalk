@@ -1,4 +1,4 @@
-basic linear algebra
+Basic Linear Algebra
 multiplyBy: value
 	"Multiply each value by value"
 			

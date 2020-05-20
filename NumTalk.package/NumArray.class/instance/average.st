@@ -1,4 +1,4 @@
-basic statistics
+Basic Statistics
 average	
 	"return average value Num array"	
 	"sum of array/ size of array"	

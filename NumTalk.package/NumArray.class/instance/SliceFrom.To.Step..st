@@ -1,5 +1,5 @@
 subsetting
-sliceFrom:indexFrom to:indexTo step:step	
+SliceFrom:indexFrom To:indexTo Step:step	
 	|result newsize|
 	newsize := ((indexTo - indexFrom)/step)ceiling.
 	

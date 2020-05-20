@@ -1,7 +1,7 @@
 shaping
 shape
-	"method which returns an array of (rows,columns)"
-	|shapeArray|
-	shapeArray := Array new:2.
-	shapeArray at:1 put:numberOfRows;at:2 put: numberOfColumns.
-	^shapeArray.
+	"method which returns a set of (rows,columns)"
+	|shapeSet|
+	shapeSet := Set new.
+	shapeSet  add:numberOfRows ;add: numberOfColumns.
+	^shapeSet 

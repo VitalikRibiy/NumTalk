@@ -8,6 +8,6 @@ testMedian
 	anotherarray := NumArray new arrangeFrom: 1 to: 19.	
 	numarray concat: anotherarray .	
 	self assert: (numarray median  ) equals: 15/2.	
-	anotherarray fillWith:1 .	
+	anotherarray fillWithOnes .	
 	numarray concat: anotherarray .	
 	self assert: (numarray median  ) equals: 2. 	

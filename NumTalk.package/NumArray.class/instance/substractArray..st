@@ -1,4 +1,4 @@
-basic linear algebra
+Basic Linear Algebra
 substractArray:secondArray
 	"modify array substracting secondArray values"
 			

@@ -1,4 +1,4 @@
-basic statistics
+Basic Statistics
 amax	
 	"returns max value in one dimentional array "	
 
