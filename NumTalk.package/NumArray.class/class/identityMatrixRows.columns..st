@@ -6,6 +6,6 @@ identityMatrixRows:rowsNumber columns:colsNumber
 	rowsNumber = colsNumber ifFalse: [ self error: 'Identity matrix must be nxn' ].
 	array := NumArray new.
 	array initializeWithRows:rowsNumber columns:colsNumber.
-	array fillWithZero.
+	array fillWith:0.
 	1 to: array size by: array columnsNumber + 1 do: [ :i| array cells at:i put:1.].
 	^array.
