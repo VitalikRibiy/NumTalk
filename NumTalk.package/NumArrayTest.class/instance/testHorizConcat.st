@@ -2,7 +2,7 @@ tests-concating
 testHorizConcat
 	|numarray anotherarray|
 	numarray := NumArray initializeWithRows: 3 columns: 2. 
-	numarray fillWith:1.
+	numarray fillWithOnes.
 	self assert:(numarray rowsNumber ) equals: 3 .
 	anotherarray := NumArray new arrangeFrom: 1 to: 2.
 	numarray horizConcat: anotherarray.

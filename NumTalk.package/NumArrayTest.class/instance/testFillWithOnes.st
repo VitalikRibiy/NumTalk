@@ -1,9 +1,9 @@
 test-filling
-testFillWith
-	"test for FillWithmethod"
+testFillWithOnes
+	"test for FillWithOnes method"
 		
 			
 	| numArray |
 	numArray := NumArray initializeWithRows: 2 columns: 2.
-	numArray fillWith:1.
+	numArray fillWithOnes.
 	self assert: (numArray cells)equals: #(1 1 1 1).

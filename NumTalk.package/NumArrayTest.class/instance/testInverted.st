@@ -1,4 +1,4 @@
-tests
+test-linearAlgebra
 testInverted
 	"Test inverted method"
 			
