@@ -5,5 +5,5 @@ initializeWithRows: row columns:col
 	numberOfColumns := col.
 	numberOfRows := row.
 	cells := Array new: row*col.
-	self fillWithZero.
+	self fillWith:0.
 	

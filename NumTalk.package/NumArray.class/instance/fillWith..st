@@ -1,6 +1,6 @@
 filling
-fillWithOnes
+fillWith:value
 	"filling cells with 1"
 			
 	1 to: self size do: 
-	[ :i| cells at:i put:1 ]
+	[ :i| cells at:i put:value]
