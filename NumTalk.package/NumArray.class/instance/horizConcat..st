@@ -5,6 +5,6 @@ horizConcat:numArray
 			
 	(numArray  columnsNumber = self columnsNumber) 
 		ifFalse: [ ^self error: 'Columns number of array`s must be the same' ].
-	numberOfRows := self rowsNumber  + 1.
+	numberOfRows := self rowsNumber  + numArray rowsNumber .
 	cells:= cells asArray,numArray  cells asArray.
 	self reshapeRows: numberOfRows  Cols: numberOfColumns .
