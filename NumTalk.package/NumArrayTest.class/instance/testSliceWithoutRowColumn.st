@@ -1,4 +1,4 @@
-tests
+tests-subsetting
 testSliceWithoutRowColumn
 	"test slice withour row and column method"
 			

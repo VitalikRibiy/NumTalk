@@ -5,8 +5,6 @@ determinant
 	| this temp res n k|
 	this := self.
 	n := this rowsNumber.
-	this columnsNumber = n
-		ifFalse: [ self error: 'array must be nxn shape' ].
 	n < 1
 		ifTrue: [ self error: 'Determinant can`t be calculated' ].
 	n = 1

@@ -14,6 +14,7 @@
 		"testInverted" : "VitaliiRibii 5/17/2020 04:50",
 		"testConcat" : "NadiiaPadalka 5/21/2020 12:51",
 		"testMultiplyOverride" : "VitaliiRibii 5/19/2020 18:23",
+		"testInverted" : "VitaliiRibii 5/17/2020 04:50",
 		"testAtRowColumn" : "VitaliiRibii 5/19/2020 18:23",
 		"testIndexAtPut" : "VitaliiRibii 5/19/2020 18:23",
 		"testSin" : "NadiiaPadalka 5/21/2020 12:58",
@@ -30,7 +31,6 @@
 		"testReshapeRowsCols" : "NadiiaPadalka 5/21/2020 12:35",
 		"testMinusOverride" : "VitaliiRibii 5/19/2020 18:23",
 		"testFillInOrderFrom" : "VitaliiRibii 5/19/2020 18:23",
-		"testDivideOverride" : "VitaliiRibii 5/19/2020 18:23",
 		"testColumnsNumber" : "VitaliiRibii 5/19/2020 18:23",
 		"testAverage" : "NadiiaPadalka 5/7/2020 08:46",
 		"testSize" : "VitaliiRibii 5/19/2020 18:23",
@@ -53,6 +53,7 @@
 		"testDeterminant" : "VitaliiRibii 5/17/2020 03:40",
 		"testCramerMethodValues" : "VitaliiRibii 5/17/2020 05:39",
 		"testCells" : "VitaliiRibii 5/19/2020 18:23",
+		"testCramerMethod" : "VitaliiRibii 5/21/2020 20:07",
 		"testAmin" : "NadiiaPadalka 5/7/2020 08:44",
 		"testSliceFromToStep" : "VitaliiRibii 5/10/2020 03:51",
 		"testArrangeFromto" : "VitaliiRibii 4/29/2020 01:15"

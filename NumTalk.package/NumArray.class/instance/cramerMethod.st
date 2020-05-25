@@ -1,11 +1,13 @@
 basic linear algebra
-cramerMethod: equalations values: values
+cramerMethod
 	"returns solution for linear equalations"
 
 	"equalations shape nxn , values n"
 
-	| temp results |
-	equalations rowsNumber = equalations columnsNumber ifFalse: [ self error: 'equalations must be nxn shape' ].
+	| temp results equalations values |
+	equalations := self.
+	values := self columns last.
+	equalations rowsNumber = (equalations columnsNumber-1) ifFalse: [ self error: 'equalations must be nxn shape' ].
 	temp := equalations determinant.
 	temp = 0 ifTrue:[self error:'Determinant is equal to zero'].
 	temp := NumArray newFrom: (equalations rows).
