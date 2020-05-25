@@ -3,7 +3,6 @@ testSliceFromToStep
 	"test for shape method"
 			
 	| testNumArray result|
-	testNumArray := NumArray new arrangeFrom: 1 to: 7.
-	self assert: (testNumArray columnsNumber ) equals: 7.
+	testNumArray := NumArray newFrom: #(1 2 3 4 5 6 7).
 	result := testNumArray sliceFrom: 1 to: 5 step: 2.
-	self assert: (result columnsNumber) equals: 2.
+	self assert: (result) equals: #(2 4).
