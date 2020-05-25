@@ -1,5 +1,6 @@
 subsetting
 sliceFrom:indexFrom to:indexTo step:step	
+	"test method for slicing method for 1d array with step "
 	|result newsize|
 	newsize := ((indexTo - indexFrom)/step)ceiling.
 	

@@ -1,5 +1,5 @@
 tests-subsetting
-testSliceFromRowsColumns
+testSliceFromRowsCols
 "test method for slicing 2d Array "
 |numarray result |
 numarray := NumArray newFrom: #(1 2 3 4 5 6 7 8 9).

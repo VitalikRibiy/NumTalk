@@ -1,13 +1,12 @@
 {
 	"instance" : {
 		"multiplyBy:" : "VitaliiRibii 4/20/2020 01:06",
-		"reshapeRows:Cols:" : "NadiiaPadalka 5/21/2020 12:31",
-		"horizConcat:" : "NadiiaPadalka 5/21/2020 13:17",
-
+		"reshapeRows:Cols:" : "NadiiaPadalka 5/25/2020 06:33",
+		"horizConcat:" : "NadiiaPadalka 5/25/2020 06:13",
 		"-" : "VitaliiRibii 5/19/2020 18:23",
 		"atRow:column:" : "VitaliiRibii 5/10/2020 00:24",
 		"arrangeFrom:to:" : "NadiiaPadalka 4/19/2020 17:37:49",
-		"sliceFrom:to:step:" : "NadiiaPadalka 5/24/2020 19:23",
+		"sliceFrom:to:step:" : "NadiiaPadalka 5/25/2020 06:35",
 		"do:" : "VitaliiRibii 5/13/2020 22:37",
 		"fillInOrderFrom:withStep:" : "VitaliiRibii 5/9/2020 20:26",
 		"amax" : "NadiiaPadalka 5/7/2020 08:40",
@@ -30,7 +29,7 @@
 		"substractArray:" : "VitaliiRibii 4/19/2020 23:53",
 		"rows" : "VitaliiRibii 5/10/2020 03:50",
 		"tan" : "VitaliiRibii 5/19/2020 18:23",
-		"vertConcat:" : "NadiiaPadalka 5/24/2020 21:06",
+		"vertConcat:" : "NadiiaPadalka 5/25/2020 06:33",
 		"indexAt:incrementBy:" : "VitaliiRibii 4/19/2020 23:49",
 		"substractByValue:" : "VitaliiRibii 4/20/2020 01:16",
 		"amin" : "NadiiaPadalka 5/7/2020 08:40",

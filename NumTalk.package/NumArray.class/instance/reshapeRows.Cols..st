@@ -1,6 +1,6 @@
 shaping
 reshapeRows:rowsNumber Cols: colsNumber
-	"reshaping ana array"
+	"reshaping an array"
 	(rowsNumber *colsNumber = self size) 
 		ifFalse: [ ^self error: 'Size of array`s must be the same' ].
 	numberOfColumns := colsNumber.
