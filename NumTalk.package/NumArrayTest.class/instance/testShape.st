@@ -1,4 +1,4 @@
-tests-shaping
+tests-reshaping
 testShape
 	"test for shape method"
 			
@@ -8,4 +8,4 @@ testShape
 	testNumArray reshapeRows: 15 Cols:2.
 	self assert:(testNumArray shape ) equals: #(15 2).
 	testNumArray reshapeRows: 30 Cols:1.
-	self assert: (testNumArray shape ) equals:#(30 1).
+	self assert: (testNumArray shape ) equals:#(30 1). 

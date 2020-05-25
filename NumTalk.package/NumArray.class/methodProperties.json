@@ -3,6 +3,7 @@
 		"multiplyBy:" : "VitaliiRibii 4/20/2020 01:06",
 		"reshapeRows:Cols:" : "NadiiaPadalka 5/25/2020 06:33",
 		"horizConcat:" : "NadiiaPadalka 5/25/2020 06:13",
+
 		"-" : "VitaliiRibii 5/19/2020 18:23",
 		"atRow:column:" : "VitaliiRibii 5/10/2020 00:24",
 		"arrangeFrom:to:" : "NadiiaPadalka 4/19/2020 17:37:49",
@@ -13,13 +14,15 @@
 		"rowsNumber" : "VitaliiRibii 3/28/2020 14:53",
 		"initializeWithRows:columns:" : "NadiiaPadalka 5/21/2020 12:13",
 		"median" : "NadiiaPadalka 5/7/2020 08:41",
-		"/" : "VitaliiRibii 5/19/2020 18:23",
+		"rowsNumber" : "VitaliiRibii 3/28/2020 14:53",
 		"cells" : "VitaliiRibii 3/28/2020 15:41",
 		"cos" : "VitaliiRibii 5/19/2020 18:23",
 		"columnsNumber" : "VitaliiRibii 3/28/2020 14:51",
+		"verticalConcat:" : "VitaliiRibii 4/20/2020 01:27:47",
 		"size" : "VitaliiRibii 3/28/2020 14:48",
 		"fillInOrderFrom:" : "VitaliiRibii 3/28/2020 15:38",
 		"initializeFrom:" : "VitaliiRibii 5/16/2020 23:51",
+		"cramerMethod" : "VitaliiRibii 5/21/2020 20:13",
 		"atRow:column:put:" : "VitaliiRibii 5/10/2020 00:19",
 		"addArray:" : "VitaliiRibii 4/19/2020 23:53",
 		"addToEachValue:" : "VitaliiRibii 4/14/2020 00:06",
@@ -33,7 +36,7 @@
 		"indexAt:incrementBy:" : "VitaliiRibii 4/19/2020 23:49",
 		"substractByValue:" : "VitaliiRibii 4/20/2020 01:16",
 		"amin" : "NadiiaPadalka 5/7/2020 08:40",
-		"determinant" : "VitaliiRibii 5/17/2020 03:21",
+		"determinant" : "VitaliiRibii 5/21/2020 17:20",
 		"range" : "NadiiaPadalka 5/7/2020 08:42",
 		"average" : "NadiiaPadalka 5/7/2020 08:41",
 		"indexAt:" : "NadiiaPadalka 4/19/2020 17:37:49",
@@ -60,6 +63,8 @@
 		"cramerMethod:values:" : "VitaliiRibii 5/17/2020 05:37",
 		"identityMatrixRows:columns:" : "NadiiaPadalka 5/21/2020 12:16",
 		"initializeWithRows:columns:" : "VitaliiRibii 5/19/2020 18:23",
+		"cramerMethod:values:" : "VitaliiRibii 5/21/2020 20:03",
+		"arrangeFrom:to:" : "VitaliiRibii 5/21/2020 18:18",
 		"newFrom:" : "VitaliiRibii 5/10/2020 03:26"
 	}
 }

@@ -1,4 +1,4 @@
-tests
+tests-initialization
 testIdentityMatrixRowsColumns
 	"Test identity matrix class methd"
 			
